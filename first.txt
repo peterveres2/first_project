@@ -3,4 +3,4 @@ This my frist file on Git training.
 2nd line added.
 3rd line
 
-GGergely Vászon done this
+GGergely Vászon done this -thank you
