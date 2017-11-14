@@ -5,6 +5,6 @@ This my frist file on Git training.
 
 GGergely Vászon done this -thank you
 10 minutes to go home :)
-before modification
+after modification
 
 
